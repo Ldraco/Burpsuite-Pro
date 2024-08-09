@@ -1,3 +1,7 @@
+
+
+
+
 # Burpsuite-Pro
 Burp Suite Professional is a powerful cybersecurity tool used for web application security testing and analysis. It is developed by PortSwigger and is widely used by security professionals, ethical hackers, and penetration testers. Burp Suite Professional offers a range of features
 
@@ -26,7 +30,19 @@ Burp Suite Professional is a powerful cybersecurity tool used for web applicatio
     git clone https://github.com/Conscious-TechHub/Burpsuite-Pro.git
 
     cd Burpsuite-Pro
-     
+    
+    mv burp /burpsuite_pro_v1.7.34.jar
+
+    mv con /burpsuite_pro_v1.7.34.jar
+    
+    mv flex burpsuite_pro_v1.7.34.jar
+
+    mv META-INF burpsuite_pro_v1.7.34.jar
+    
+    mv org burpsuite_pro_v1.7.34.jar
+    
+    mv resources burpsuite_pro_v1.7.34.jar
+    
     Past Downlaode File In This Dirtory Burpsuite-Pro ( openlogic-openjdk-8u392-b08-linux-x64-deb.deb )
     
     chmod +x setup.sh
