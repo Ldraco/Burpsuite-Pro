@@ -14,12 +14,14 @@ Burp Suite Professional is a powerful cybersecurity tool used for web applicatio
 # Step 1:-
     Before Copy This Link choose your arch and Past in Browser 
 
-    Direct Downloade For 32 Bit Arch
+    Direct Downloade For 64 Bit kali linux
 
-    https://builds.openlogic.com/downloadJDK/openlogic-openjdk/8u392-b08/openlogic-openjdk-8u392-b08-linux-x32-deb.deb
+    openlogic java jdk
+
+    openlogic-openjdk-8u392-b08-linux-x64-deb.deb
 
     
-    Direct Dwonloade For 64 bit Arch
+    Direct Dwonloade For 64 bit 
 
     https://builds.openlogic.com/downloadJDK/openlogic-openjdk/8u392-b08/openlogic-openjdk-8u392-b08-linux-x64-deb.deb
 
@@ -30,6 +32,8 @@ Burp Suite Professional is a powerful cybersecurity tool used for web applicatio
     git clone https://github.com/Conscious-TechHub/Burpsuite-Pro.git
 
     cd Burpsuite-Pro
+
+    unzip all zip file
     
     mv burp /burpsuite_pro_v1.7.34.jar
 
