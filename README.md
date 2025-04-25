@@ -32,33 +32,46 @@ Burp Suite Professional is a powerful cybersecurity tool used for web applicatio
 # Step 2
 
     git clone https://github.com/Conscious-TechHub/Burpsuite-Pro.git
+  -------
 
     cd Burpsuite-Pro
 
+------
     unzip all zip file
-    
+
+-----
     mv burp /burpsuite_pro_v1.7.34.jar
 
+--------
     mv con /burpsuite_pro_v1.7.34.jar
-    
+-----
+
     mv flex burpsuite_pro_v1.7.34.jar
+------
 
     mv META-INF burpsuite_pro_v1.7.34.jar
-    
+----
+
     mv org burpsuite_pro_v1.7.34.jar
-    
+-----
+
     mv resources burpsuite_pro_v1.7.34.jar
-    
+------
+
     Past Downlaode File In This Dirtory Burpsuite-Pro ( openlogic-openjdk-8u392-b08-linux-x64-deb.deb )
-    
+-----
+
     chmod +x setup.sh
-    
+------
+
     bash setup.sh
-    
+------
+
 # Step 3
 
     Select java 8 language
-    
+----
+
     Than Copy and Past Request and Respons To Verify Certificate
 
     Setup Proxy By " Foxy Proxy "
