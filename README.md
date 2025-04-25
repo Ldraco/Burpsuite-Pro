@@ -12,19 +12,18 @@ Burp Suite Professional is a powerful cybersecurity tool used for web applicatio
 # Installing Burpsuite Pro
 
 # Step 1:-
-    Before Copy This Link choose your arch and Past in Browser 
-
+ Before Copy This Link choose your arch and Past in Browser 
     Direct Downloade For 64 Bit kali linux
 
-    openlogic java jdk
-
+ openlogic java jdk
+-----
     openlogic-openjdk-8u392-b08-linux-x64-deb.deb
-
+---------
     
     Direct Dwonloade For 64 bit 
-
+------
     https://builds.openlogic.com/downloadJDK/openlogic-openjdk/8u392-b08/openlogic-openjdk-8u392-b08-linux-x64-deb.deb
-
+-----
     
     
 # Step 2
