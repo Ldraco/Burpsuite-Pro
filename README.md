@@ -19,7 +19,10 @@ Burp Suite Professional is a powerful cybersecurity tool used for web applicatio
 -----
     openlogic-openjdk-8u392-b08-linux-x64-deb.deb
 ---------
-    
+ to change  java version :
+ 
+    sudo update-alternatives --config java
+ -----------
     Direct Dwonloade For 64 bit 
 ------
     https://builds.openlogic.com/downloadJDK/openlogic-openjdk/8u392-b08/openlogic-openjdk-8u392-b08-linux-x64-deb.deb
